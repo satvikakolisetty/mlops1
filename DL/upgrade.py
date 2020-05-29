@@ -5,7 +5,7 @@ acc1 = acc.read()
 print(acc1)
 acc2 = acc1.rstrip()
 print(acc2)
-acc3 = float(acc2)
+acc3 = (acc2)
 
 
 if acc3<80:
