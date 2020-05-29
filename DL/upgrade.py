@@ -32,6 +32,7 @@ if acc3<80:
     print(acc2)
     acc3 = float(acc2)
 else:
+    print("your accuracy is above 80")
     
-    print("ACCURACY ABOVE 80")
+   
 
